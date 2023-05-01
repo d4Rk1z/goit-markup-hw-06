@@ -951,7 +951,6 @@ address {
 
 .btn-input {
     display: flex;
-    align-items: center;
     justify-content: center;
     width: 165px;
     height: 40px;
