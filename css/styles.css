@@ -885,6 +885,9 @@ address {
 }
 
 .modal-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     position: absolute;
     width: 24px;
     height: 24px;
@@ -947,6 +950,9 @@ address {
 }
 
 .btn-input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 165px;
     height: 40px;
     margin-left: 24px;
@@ -974,7 +980,7 @@ address {
 }
 
 .svg-btn {
-    margin: 0 24px 0 16px;
+    margin: 0 0 0 16px;
 }
 
 .flex-icon-send {
@@ -1011,6 +1017,7 @@ address {
     letter-spacing: 0.01em;
     color: #757575;
     margin-bottom: 4px;
+    display: block;
 }
 
 .field-input {
